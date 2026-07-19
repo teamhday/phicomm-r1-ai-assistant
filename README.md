@@ -4,6 +4,14 @@ Chào mừng bạn đến với phiên bản phần mềm đặc biệt dành ri
 
 Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ luôn sẵn sàng lắng nghe, trò chuyện, mở nhạc và phục vụ bạn hằng ngày!
 
+
+## 🚀 Cài Đặt (Installation)
+
+**V1.0.0**:
+```sh
+wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/phicomm-r1/setup-r1.sh | sh
+```
+
 ---
 
 ## ✨ Những Tính Năng Nổi Bật
@@ -37,7 +45,7 @@ Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ lu
   - Bạn có thể tùy ý ra lệnh cho AI *"Tắt/bật đèn LED đi"* nếu muốn.
 
 ### 6. 📻 Chế Độ Loa Bluetooth Cổ Điển
-- Ngoài việc hoạt động độc lập, bạn cũng có thể ra lệnh *"Bật chế độ Bluetooth"* để biến chiếc Phicomm R1 thành một chiếc loa Bluetooth truyền thống. Sau đó, chỉ cần dùng điện thoại dò và kết nối để phát âm thanh từ điện thoại sang loa cực kỳ tiện lợi.
+- Ngoài việc hoạt động độc lập, bạn cũng có thể ra lệnh *"Bật chế độ Bluetooth"* hoặc **bấm nhanh nút Play/Pause 3 lần (triple tap)** để biến chiếc Phicomm R1 thành một chiếc loa Bluetooth truyền thống. Sau đó, chỉ cần dùng điện thoại dò và kết nối để phát âm thanh từ điện thoại sang loa cực kỳ tiện lợi.
 
 ### 7. ⚙️ Cài Đặt Mạng & Vận Hành Hoàn Toàn Tự Động
 - **Cắm điện là chạy:** Không cần mở app hay thiết lập phức tạp. Mỗi khi cắm điện, loa sẽ tự động chạy ngầm sẵn sàng phục vụ bạn.
