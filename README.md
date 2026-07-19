@@ -12,6 +12,8 @@ Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ lu
 wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/phicomm-r1/setup-r1.sh | sh
 ```
 
+[![Hướng dẫn cài đặt](https://img.youtube.com/vi/xqwhQPWjLs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=xqwhQPWjLs4)
+
 ---
 
 ## ✨ Những Tính Năng Nổi Bật
