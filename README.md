@@ -9,7 +9,7 @@ Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ lu
 
 **V1.0.0**:
 ```sh
-wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/phicomm-r1/setup-r1.sh | sh
+wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.1/setup-r1.sh | sh
 ```
 
 
