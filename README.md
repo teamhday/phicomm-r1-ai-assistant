@@ -11,9 +11,7 @@ Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ lu
 ```sh
 wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.1/setup-r1.sh | sh
 ```
-
-
-https://www.youtube.com/watch?v=xqwhQPWjLs4
+*[https://www.youtube.com/watch?v=xqwhQPWjLs4](https://www.youtube.com/watch?v=xqwhQPWjLs4)*
 [![Hướng dẫn cài đặt](https://img.youtube.com/vi/xqwhQPWjLs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=xqwhQPWjLs4)
 
 ---
@@ -21,37 +19,27 @@ https://www.youtube.com/watch?v=xqwhQPWjLs4
 ## ✨ Những Tính Năng Nổi Bật
 
 ### 1. 🗣️ Trợ Lý Ảo AI Trò Chuyện Tự Nhiên
-- **Nói chuyện như người thật:** Bạn có thể hỏi đáp, nhờ tư vấn, tâm sự hoặc yêu cầu trợ lý thực hiện các tác vụ bằng ngôn ngữ tự nhiên. Phản hồi cực nhanh và có thể nói chuyện qua lại nhiều câu (hội thoại đa lượt).
-- **Thao tác đơn giản:** Chỉ cần bấm nút Play/Pause trên đỉnh loa, dải đèn LED sẽ sáng lên báo hiệu loa đang lắng nghe bạn.
-- **Tự động ngắt:** Khi bạn nói xong, loa tự động hiểu và bắt đầu xử lý, không cần thao tác thêm. Khi đang phát nhạc, nhạc sẽ tự động nhỏ lại để nghe bạn nói rõ hơn.
+- **Hội thoại thông minh:** Hỏi đáp, nhờ tư vấn, tâm sự bằng ngôn ngữ tự nhiên, hỗ trợ trò chuyện liên tục (đa lượt).
+- **Thao tác 1 chạm:** Bấm 1 lần (gọi/ngắt lệnh/tắt báo thức), bấm 2 lần (qua bài), bấm 3 lần (đổi chế độ Bluetooth), giữ 6 giây (cài Wifi).
+- **Tương tác linh hoạt:** Tự động lắng nghe và xử lý khi bạn nói xong. Nhạc tự động giảm âm lượng khi bạn ra lệnh.
+### 2. 🎵 Tìm Kiếm & Phát Nhạc Online
+- **Mở nhạc bằng giọng nói:** Bạn chỉ cần nói *"Mở bài hát..."* hoặc *"Mở nhạc của..."*, trợ lý sẽ tự động tìm kiếm và phát nhạc online ngay lập tức.
+- **Hoàn toàn miễn phí:** Nghe nhạc chất lượng cao mà không cần bất kỳ tài khoản VIP nào.
 
-### 2. 🎵 Trình Phát Nhạc Thông Minh (YouTube & Zing MP3)
-- **Mở nhạc bằng giọng nói:** Bạn chỉ cần nói *"Mở bài hát..."* hoặc *"Mở nhạc của..."*, trợ lý sẽ tự động tìm kiếm trên YouTube hoặc Zing MP3 và phát ngay lập tức.
-- **Hoàn toàn miễn phí:** Nghe nhạc chất lượng cao mà không cần bất kỳ tài khoản VIP nào. Trợ lý AI có thể tự động chọn nguồn phát nhạc phù hợp nhất.
-
-### 3. ⏰ Báo Thức "Bất Bại" & Nhạc Chuông YouTube
-- **Báo thức thông minh:** Đặt báo thức bằng giọng nói. Hệ thống sẽ tự ghi nhớ, kể cả khi loa bị rút điện khởi động lại thì báo thức vẫn hoạt động chính xác.
-- **Đánh thức bằng mọi giá:** Loa sẽ tự động kích mức âm lượng lên để đánh thức bạn dù trước đó bạn có lỡ vặn nhỏ loa. Sau khi bạn tắt báo thức, âm lượng cũ sẽ được khôi phục.
-- **Chọn nhạc chuông theo sở thích:** Bạn có thể tự do gán một bài nhạc YouTube bất kỳ làm nhạc chuông báo thức thay vì tiếng chuông mặc định nhàm chán.
-- **An toàn khi rớt mạng:** Nếu tới giờ báo thức mà loa bị rớt mạng không tải được nhạc YouTube, loa sẽ tự chuyển sang tiếng chuông dự phòng để đảm bảo bạn không bị muộn giờ.
+### 3. ⏰ Báo Thức "Bất Bại" & Nhạc Chuông Online
+- **Hoạt động ổn định:** Tự ghi nhớ báo thức ngay cả khi mất điện hay rớt mạng. Loa tự kích âm lượng lớn để đảm bảo bạn thức giấc.
+- **Nhạc chuông tùy chỉnh:** Tự do đặt bài hát online yêu thích làm chuông báo (tự động chuyển về âm báo dự phòng nếu rớt mạng).
 
 ### 4. 📱 Bảng Điều Khiển Cầm Tay (Web Dashboard)
-- **Không cần nhớ IP phức tạp:** Bạn chỉ cần gõ tên miền `http://phicomm-r1.local:8080` (hoặc tên miền tùy chỉnh của bạn) trên điện thoại hay máy tính là có ngay một bảng điều khiển từ xa cực xịn xò. Quên đi việc phải dò tìm IP của loa mỗi khi khởi động lại mạng!
-- **Chỉnh nhạc & Âm lượng:** Quản lý danh sách các bài hát đang phát (thêm/xóa bài, qua bài, tạm dừng), tăng giảm âm lượng tổng của loa chỉ bằng vài cú chạm.
-- **Quản lý báo thức trực quan:** Xem danh sách báo thức, thêm/sửa/xóa, hẹn giờ lặp lại hằng ngày hoặc bấm tắt báo thức từ xa khi nó đang reo.
-- **Giao diện hiện đại:** Hỗ trợ cả chế độ Sáng (Light Mode) và Tối (Dark Mode) bảo vệ mắt.
+- **Truy cập cực nhanh:** Gõ `http://phicomm-r1.local:8080` trên thiết bị bất kỳ để mở bảng điều khiển mà không cần dò IP. Hỗ trợ giao diện Sáng/Tối.
+- **Quản lý toàn diện:** Điều khiển trình phát nhạc (qua bài, tạm dừng, âm lượng) và quản lý báo thức trực quan (thêm/sửa/xóa/tắt báo thức từ xa).
 
 ### 5. 💡 Dải Đèn LED Tương Tác Cảm Xúc
-- Dải đèn LED trên đỉnh loa không chỉ để trang trí mà còn "biết nói":
-  - **Nháy xanh dương:** Loa đang vểnh tai nghe bạn nói.
-  - **Chớp nhiều màu lấp lánh:** Trợ lý AI đang suy nghĩ và trả lời bạn.
-  - **Tắt đèn:** Loa đang ở trạng thái rảnh rỗi chờ lệnh.
-  - Bạn có thể tùy ý ra lệnh cho AI *"Tắt/bật đèn LED đi"* nếu muốn.
+- **Trạng thái trực quan:** Đèn xanh nháy (đang nghe), chớp lấp lánh đa sắc (đang suy nghĩ/trả lời), tắt đèn (đang chờ lệnh). Bạn cũng có thể ra lệnh giọng nói để chủ động tắt/bật đèn.
 
 ### 6. 📻 Chế Độ Loa Bluetooth Cổ Điển
-- Ngoài việc hoạt động độc lập, bạn cũng có thể ra lệnh *"Bật chế độ Bluetooth"* hoặc **bấm nhanh nút Play/Pause 3 lần (triple tap)** để biến chiếc Phicomm R1 thành một chiếc loa Bluetooth truyền thống. Sau đó, chỉ cần dùng điện thoại dò và kết nối để phát âm thanh từ điện thoại sang loa cực kỳ tiện lợi.
+- **Chuyển đổi tức thì:** Gọi *"Bật chế độ Bluetooth"* hoặc bấm nút 3 lần để biến R1 thành loa Bluetooth thông thường. Loa sẽ tự động kết nối lại thiết bị cũ vô cùng tiện lợi.
 
-### 7. ⚙️ Cài Đặt Mạng & Vận Hành Hoàn Toàn Tự Động
-- **Cắm điện là chạy:** Không cần mở app hay thiết lập phức tạp. Mỗi khi cắm điện, loa sẽ tự động chạy ngầm sẵn sàng phục vụ bạn.
-- **Cài Wifi cực dễ:** Khi mang loa đi nơi khác, chỉ cần nhấn giữ nút Play/Pause trong 6 giây. Loa sẽ lập tức phát ra một mạng Wifi tên `Phicomm-R1`. Bạn kết nối vào mạng này, mở điện thoại lên là có thể dễ dàng điền Wifi và mật khẩu mới cho loa.
-- **Hướng dẫn bằng giọng nói:** Mọi thao tác như khởi động thành công, kết nối Wifi thành công, hay lỗi mất mạng đều được loa thông báo cụ thể bằng giọng nói và âm thanh.
+### 7. ⚙️ Cài Đặt Mạng & Vận Hành Tự Động
+- **Cắm điện là chạy:** Khởi động ngầm tự động. Các trạng thái mạng và khởi động đều được thông báo rõ ràng bằng giọng nói.
+- **Cài Wifi siêu tốc:** Giữ nút 6 giây để phát điểm truy cập `Phicomm-R1` giúp bạn đổi mạng Wifi nhanh chóng mọi lúc mọi nơi.
