@@ -7,9 +7,9 @@ Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ lu
 
 ## 🚀 Cài Đặt (Installation)
 
-**V1.0.1**:
+**V1.0.3**:
 ```sh
-wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.1/setup-r1.sh | sh
+wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.3/setup-r1.sh | sh
 ```
 *[https://www.youtube.com/watch?v=xqwhQPWjLs4](https://www.youtube.com/watch?v=xqwhQPWjLs4)*
 [![Hướng dẫn cài đặt](https://img.youtube.com/vi/xqwhQPWjLs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=xqwhQPWjLs4)
