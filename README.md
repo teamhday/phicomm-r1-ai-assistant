@@ -10,7 +10,7 @@ Chỉ cần cắm điện và kết nối Wi-Fi, loa sẽ sẵn sàng lắng ngh
 
 **V1.0.4**:
 ```sh
-wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.4/setup-r1.shssss | sh
+wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.4/setup-r1.sh | sh
 ```
 📺 **Video hướng dẫn chi tiết:** *[https://www.youtube.com/watch?v=xqwhQPWjLs4](https://www.youtube.com/watch?v=xqwhQPWjLs4)*
 
