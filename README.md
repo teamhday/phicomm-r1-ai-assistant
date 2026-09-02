@@ -1,45 +1,56 @@
 # 🤖 Phicomm R1 - Loa Trợ Lý Ảo Thông Minh
 
-Chào mừng bạn đến với phiên bản phần mềm đặc biệt dành riêng cho loa Phicomm R1! Phần mềm này sẽ "hồi sinh" chiếc loa cũ của bạn và biến nó thành một trợ lý ảo cực kỳ thông minh, không thua kém gì các mẫu loa thông minh hiện đại trên thị trường.
+Chào mừng bạn đến với phần mềm biến loa Phicomm R1 thành một trợ lý ảo AI thông minh!
 
-Chỉ cần cắm điện và kết nối mạng, chiếc loa Phicomm R1 sẽ luôn sẵn sàng lắng nghe, trò chuyện, mở nhạc và phục vụ bạn hằng ngày!
+Chỉ cần cắm điện và kết nối Wi-Fi, loa sẽ sẵn sàng lắng nghe, trò chuyện, mở nhạc và phục vụ bạn hằng ngày.
 
+---
 
 ## 🚀 Cài Đặt (Installation)
 
-**V1.0.3**:
+**V1.0.4**:
 ```sh
-wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.3/setup-r1.sh | sh
+wget -qO- https://github.com/thuonglt/phicomm-r1-ai-assistant/releases/download/v1.0.4/setup-r1.shssss | sh
 ```
-*[https://www.youtube.com/watch?v=xqwhQPWjLs4](https://www.youtube.com/watch?v=xqwhQPWjLs4)*
+📺 **Video hướng dẫn chi tiết:** *[https://www.youtube.com/watch?v=xqwhQPWjLs4](https://www.youtube.com/watch?v=xqwhQPWjLs4)*
+
 [![Hướng dẫn cài đặt](https://img.youtube.com/vi/xqwhQPWjLs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=xqwhQPWjLs4)
 
 ---
 
-## ✨ Những Tính Năng Nổi Bật
+## ✨ Tính Năng Nổi Bật
 
-### 1. 🗣️ Trợ Lý Ảo AI Trò Chuyện Tự Nhiên
-- **Hội thoại thông minh:** Hỏi đáp, nhờ tư vấn, tâm sự bằng ngôn ngữ tự nhiên, hỗ trợ trò chuyện liên tục (đa lượt).
-- **Thao tác 1 chạm:** Bấm 1 lần (gọi/ngắt lệnh/tắt báo thức), bấm 2 lần (qua bài), bấm 3 lần (đổi chế độ Bluetooth), giữ 6 giây (cài Wifi).
-- **Tương tác linh hoạt:** Tự động lắng nghe và xử lý khi bạn nói xong. Nhạc tự động giảm âm lượng khi bạn ra lệnh.
-### 2. 🎵 Tìm Kiếm & Phát Nhạc Online
-- **Mở nhạc bằng giọng nói:** Bạn chỉ cần nói *"Mở bài hát..."* hoặc *"Mở nhạc của..."*, trợ lý sẽ tự động tìm kiếm và phát nhạc online ngay lập tức.
-- **Hoàn toàn miễn phí:** Nghe nhạc chất lượng cao mà không cần bất kỳ tài khoản VIP nào.
+- 🗣️ **Trò chuyện cùng AI:** Hỏi đáp, tâm sự, nhờ tư vấn mọi chủ đề bằng tiếng Việt tự nhiên.
+- 🎵 **Mở nhạc bằng giọng nói:** Chỉ cần nói *"Mở bài hát..."* hoặc *"Mở nhạc của..."*, loa sẽ tự tìm và phát nhạc chất lượng cao.
+- ⏰ **Báo thức thông minh:** Đặt báo thức bằng giọng nói hoặc giao diện web, tự phát bài hát yêu thích khi báo thức.
+- 🌐 **Tra cứu thông tin trực tuyến:** Tìm kiếm thời tiết, tin tức, giá vàng, tỷ số bóng đá theo thời gian thực.
+- 📱 **Giao diện Web Dashboard:** Mở trình duyệt gõ `http://phicomm-r1.local:8080` (hoặc IP của loa) để chọn bài, chỉnh âm lượng, đặt báo thức và cấu hình loa.
+- 🎧 **Chế độ Loa Bluetooth:** Bấm nút 3 lần hoặc nói *"Bật Bluetooth"* để biến thành loa Bluetooth thông thường.
+- 💡 **Đèn LED thông minh:** Đèn đổi màu trực quan khi loa đang nghe, đang suy nghĩ hoặc phát biểu.
+- 🔘 **Thao tác nút bấm đỉnh loa:**
+  - **Bấm 1 lần:** Gọi AI / Ngắt lệnh / Tắt báo thức.
+  - **Bấm 3 lần:** Bật / tắt chế độ Bluetooth.
+  - **Giữ 6 giây:** Bật chế độ phát Wi-Fi để đổi mạng mới.
 
-### 3. ⏰ Báo Thức "Bất Bại" & Nhạc Chuông Online
-- **Hoạt động ổn định:** Tự ghi nhớ báo thức ngay cả khi mất điện hay rớt mạng. Loa tự kích âm lượng lớn để đảm bảo bạn thức giấc.
-- **Nhạc chuông tùy chỉnh:** Tự do đặt bài hát online yêu thích làm chuông báo (tự động chuyển về âm báo dự phòng nếu rớt mạng).
+---
 
-### 4. 📱 Bảng Điều Khiển Cầm Tay (Web Dashboard)
-- **Truy cập cực nhanh:** Gõ `http://phicomm-r1.local:8080` trên thiết bị bất kỳ để mở bảng điều khiển mà không cần dò IP. Hỗ trợ giao diện Sáng/Tối.
-- **Quản lý toàn diện:** Điều khiển trình phát nhạc (qua bài, tạm dừng, âm lượng) và quản lý báo thức trực quan (thêm/sửa/xóa/tắt báo thức từ xa).
+## 🔑 Hướng Dẫn Cấu Hình Web Search API (Tìm Kiếm Trực Tuyến)
 
-### 5. 💡 Dải Đèn LED Tương Tác Cảm Xúc
-- **Trạng thái trực quan:** Đèn xanh nháy (đang nghe), chớp lấp lánh đa sắc (đang suy nghĩ/trả lời), tắt đèn (đang chờ lệnh). Bạn cũng có thể ra lệnh giọng nói để chủ động tắt/bật đèn.
+Để trợ lý ảo có thể tra cứu thông tin mới nhất trên Internet (như tin tức hôm nay, thời tiết, giá cả...), bạn có thể cấu hình API tìm kiếm miễn phí theo các bước sau:
 
-### 6. 📻 Chế Độ Loa Bluetooth Cổ Điển
-- **Chuyển đổi tức thì:** Gọi *"Bật chế độ Bluetooth"* hoặc bấm nút 3 lần để biến R1 thành loa Bluetooth thông thường. Loa sẽ tự động kết nối lại thiết bị cũ vô cùng tiện lợi.
+### 1. Lấy API Key miễn phí
+Bạn có thể chọn 1 trong 2 dịch vụ sau (hoặc nhập cả hai):
+- **Tavily (Khuyên dùng):** Truy cập [tavily.com](https://tavily.com), đăng ký tài khoản miễn phí và sao chép API Key (có dạng `tvly-...`).
+- **Serper:** Truy cập [serper.dev](https://serper.dev), đăng ký tài khoản miễn phí để nhận API Key.
 
-### 7. ⚙️ Cài Đặt Mạng & Vận Hành Tự Động
-- **Cắm điện là chạy:** Khởi động ngầm tự động. Các trạng thái mạng và khởi động đều được thông báo rõ ràng bằng giọng nói.
-- **Cài Wifi siêu tốc:** Giữ nút 6 giây để phát điểm truy cập `Phicomm-R1` giúp bạn đổi mạng Wifi nhanh chóng mọi lúc mọi nơi.
+### 2. Cài đặt vào Loa
+1. Kết nối cùng mạng Wi-Fi với loa, mở trình duyệt và truy cập: `http://phicomm-r1.local:8080` (hoặc địa chỉ IP của loa).
+2. Chuyển sang tab **AI**.
+3. Cuộn xuống mục **Web Search API Keys**, dán key đã lấy vào ô **Tavily API Key** hoặc **Serper API Key**.
+4. Nhấn nút **Lưu cấu hình API**.
+
+### 3. Trải nghiệm
+Bây giờ bạn có thể thử hỏi loa những câu hỏi cần dữ liệu trực tuyến:
+- *"Giá vàng hôm nay bao nhiêu?"*
+- *"Thời tiết Hà Nội hôm nay thế nào?"*
+- *"Tin tức công nghệ nổi bật gần đây là gì?"*
